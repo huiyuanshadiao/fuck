@@ -1,0 +1,6 @@
+E:\VS编程\Day02_0100\Day02_0100\bin\Debug\Day02_0100.exe.config
+E:\VS编程\Day02_0100\Day02_0100\obj\Debug\Day02_0100.csprojResolveAssemblyReference.cache
+E:\VS编程\Day02_0100\Day02_0100\bin\Debug\Day02_0100.exe
+E:\VS编程\Day02_0100\Day02_0100\bin\Debug\Day02_0100.pdb
+E:\VS编程\Day02_0100\Day02_0100\obj\Debug\Day02_0100.exe
+E:\VS编程\Day02_0100\Day02_0100\obj\Debug\Day02_0100.pdb
